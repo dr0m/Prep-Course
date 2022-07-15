@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://www.schengenvisainfo.com/news/wp-content/uploads/2022/02/Pisa-tower-in-Italy-tourism-1.jpg) no-repeat fixed center;
+    background-size: cover;
+    color: white;
+}
+
+div {
+    margin: 0 auto;
+}
+
+h1 {
+    color: brown;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: coral;
+    padding: 50px;
+    border: 5px darksalmon solid;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
